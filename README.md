@@ -1,8 +1,13 @@
 # Espressif IoT Development Framework
 
 * [中文版](./README_CN.md)
+* **📋 [Ver TODO List](./TODO.md)** - Lista de tareas y próximos pasos del proyecto
 
 ESP-IDF is the development framework for Espressif SoCs supported on Windows, Linux and macOS.
+
+## 🚀 Inicio Rápido
+
+Este repositorio contiene el ESP-IDF v5.1.5. Para comenzar a trabajar con este proyecto, sigue los pasos de configuración a continuación.
 
 # ESP-IDF Release Support Schedule
 
